@@ -35,7 +35,7 @@
       <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="86" selection-start="1382" selection-end="1382" vertical-scroll-proportion="1.0720268">
+            <state line="18" column="95" selection-start="529" selection-end="529" vertical-scroll-proportion="-0.16080402">
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
         <option value="erick2007" />
       </list>
     </option>
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -164,7 +163,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="70" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -255,7 +254,11 @@
       <created>1352228362238</created>
       <updated>1352228362238</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="start 0.1.1">
+      <created>1352228510836</created>
+      <updated>1352228510836</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <option name="createChangelist" value="false" />
     <servers />
   </component>
@@ -280,8 +283,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21937639" sideWeight="0.48612595" order="7" side_tool="false" content_ui="tabs" />
@@ -289,7 +292,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22828507" sideWeight="0.49786553" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14140876" sideWeight="0.27060133" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14140876" sideWeight="0.44209355" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14140876" sideWeight="0.44209355" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1398079" sideWeight="0.37305123" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27951002" sideWeight="0.511206" order="7" side_tool="true" content_ui="tabs" />
@@ -340,7 +343,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="start 0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="start 0.1.1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -359,6 +362,7 @@
     <MESSAGE value="autoload 5" />
     <MESSAGE value="inf" />
     <MESSAGE value="start 0.1" />
+    <MESSAGE value="start 0.1.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -427,7 +431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="86" selection-start="1382" selection-end="1382" vertical-scroll-proportion="1.0720268">
+        <state line="18" column="95" selection-start="529" selection-end="529" vertical-scroll-proportion="-0.16080402">
           <folding />
         </state>
       </provider>
