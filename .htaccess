@@ -1,0 +1,6 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www\.leafwords\.com$
+RewriteRule ^(.*)$ "htttp\:\/\/leafwords\.com\/$1" [R=301,L]
+
